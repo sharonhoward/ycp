@@ -12,3 +12,9 @@ License
 -------
 
 All the material in this project is my own work and licensed under a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) licence unless otherwise stated. 
+
+
+Zenodo
+------
+
+[![DOI](https://zenodo.org/badge/8207/sharonhoward/ycp.svg)](http://dx.doi.org/10.5281/zenodo.13752)
