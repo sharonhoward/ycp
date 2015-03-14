@@ -1,7 +1,7 @@
 causes database
 ===============
 
-tables (v1.5)
+tables (v2.0)
 ------
 
 See [The Causes](http://earlymodernweb.org/defamation/causes.html) for further information.
