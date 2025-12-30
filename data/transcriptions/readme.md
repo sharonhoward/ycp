@@ -4,7 +4,7 @@ Transcriptions
 depositions (v2.0)
 ----
 
-See [The Causes](http://earlymodernweb.org/defamation/causes.html) for further information.
+See [The Causes](https://sharonhoward.org/defamation/causes.html) for further information.
 
 ### the files
 

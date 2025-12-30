@@ -1,12 +1,12 @@
 ycp
 ===
 
-Gender and Defamation in York 1660-1700
+Gender and Defamation in York 1661-1700
 ---------
 
-Data and other materials for this project to update and share my old MA thesis research.
+Data and other materials for this project to update and share my 1999 MA thesis research.
 
-Website: [http://earlymodernweb.org/defamation](http://earlymodernweb.org/defamation/)
+Website: [https://sharonhoward.org/defamation](https://sharonhoward.org/defamation/)
 
 License
 -------
