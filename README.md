@@ -17,4 +17,5 @@ All the material in this project is my own work and licensed under a [Attributio
 Zenodo
 ------
 
-[![DOI](https://zenodo.org/badge/8207/sharonhoward/ycp.svg)](https://doi.org/10.5281/zenodo.606758)
+[![DOI](https://zenodo.org/badge/8207/sharonhoward/ycp.svg)](https://doi.org/10.5281/zenodo.18093278)
+
